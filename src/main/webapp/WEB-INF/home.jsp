@@ -7,14 +7,14 @@
 <head>
 <spring:url value="/resources/images/mithunlogo.jpg" var="mithunlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Prasad Technologies- Home Page</title>
+<title>Saif Technologies- Home Page</title>
 
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Prasad Software Solutions Pvt Ltd.</h1>
+<h1 align="center">Welcome to Saif Software Solutions Pvt Ltd.</h1>
 <h1 align="center">
-Prasad Challagondla SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on 21 Jul 2020 7 PM IST - Online , and on Sep 21st 9 AM we have class room demo.
+Saif SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on 21 Jul 2020 7 PM IST - Online , and on Sep 21st 9 AM we have class room demo.
 	Very Good Training center for DevOps in Marathahalli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
